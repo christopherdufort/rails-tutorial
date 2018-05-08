@@ -40,7 +40,7 @@ group :development, :test do
   # Use sqlite3 as the database for Active Record (but onl for test and development)
   gem 'sqlite3', '1.3.13'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'byebug', '9.0.6', platforms: mri
+  gem 'byebug', '9.0.6', platforms: :mri
   # Adds support for Capybara system testing and selenium driver
   # gem 'capybara', '~> 2.13'
   # gem 'selenium-webdriver'
