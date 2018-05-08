@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial README
+# README: Ruby on Rails Tutorial
 
 ## simple "hello, world!" application
 
